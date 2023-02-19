@@ -48,6 +48,7 @@ page’s size and orientation.
 2. In the next window press “Print From” buttom
 <br />
 3. Select the file that you want to print.
+<br />
 4. Modify standard settings if you need. You can choose the number of copies, 1-sided or 2-sided printing, and output color. 
 <img src="https://www.linkpicture.com/q/7_53.jpeg" width="400" height="300" />
 5. Press the “Print” button on the upper right corner.     
