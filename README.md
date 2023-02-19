@@ -38,10 +38,12 @@ page’s size and orientation.
 5. When you are ready press “Print” on the top right corner. 
 
 ### _Printing documents via Google Drive_ <a name="subparagraph1"></a>
-1. Authorize into your google account and press “Confirm” button
+1. Authorize into your google account and press “Confirm” button 
+<img src="https://www.linkpicture.com/q/6_20.jpeg" width="400" height="300" />
 2. In the next window press “Print From” buttom
 3. Select the file that you want to print.
-4. Modify standard settings if you need. You can choose the number of copies, 1-sided or 2-sided printing, and output color.
+4. Modify standard settings if you need. You can choose the number of copies, 1-sided or 2-sided printing, and output color. 
+<img src="https://www.linkpicture.com/q/7_53.jpeg" width="400" height="300" />
 5. Press the “Print” button on the upper right corner.     
 
 
