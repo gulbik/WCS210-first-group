@@ -25,11 +25,16 @@ Picture Size (HTML)
 ### _Printing documents via USB port_ <a name="subparagraph1"></a>
 1. Insert your USB flash drive into the USB port as shown in the picture.
 
-<img src="https://www.linkpicture.com/q/Insert-USB.jpeg" width="400" height="300" /> <img src="https://www.linkpicture.com/q/Select-Print.jpeg" width="400" height="300" />
+<img src="https://www.linkpicture.com/q/Insert-USB.jpeg" width="400" height="300" /> 
 2. After inserting your USB flash drive choose “Print from USB”. This will show your files on the screen. 
+
+<img src="https://www.linkpicture.com/q/Select-Print.jpeg" width="400" height="300" />
 3. Choose the file you want to print. 
+<img src="https://www.linkpicture.com/q/Choose-your-file.jpeg" width="400" height="300" />
+
 4. After new options menu will open, there you can choose the number of copies needed, 
 page’s size and orientation. 
+<img src="https://www.linkpicture.com/q/Wait.jpeg" width="400" height="300" />
 5. When you are ready press “Print” on the top right corner. 
 
 ### _Printing documents via Google Drive_ <a name="subparagraph1"></a>
