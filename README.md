@@ -19,7 +19,9 @@ Picture Size (HTML)
 1. Insert your USB flash drive into the USB port as shown in the picture. After inserting your USB flash drive choose “Print from USB”.
 <img src="https://www.linkpicture.com/q/Insert-USB.jpeg" width="400" height="300" /> <img src="https://www.linkpicture.com/q/Select-Print.jpeg" width="400" height="300" />
 2. It will show your files on the screen. Choose the file you want to print. 
+<img src="https://www.linkpicture.com/q/Choose-your-file.jpeg" width="400" height="300" />
 3. New options menu will open, there you can choose the number of copies needed, page’s size and orientation. When you are ready press “Print” on the top right corner. Printer will start printing your file. 
+<img src="https://www.linkpicture.com/q/Wait.jpeg" width="400" height="300" />
 
 # Some paragraph <a name="paragraph1"></a>
 The first paragraph text
