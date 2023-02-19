@@ -23,7 +23,9 @@ Picture Size (HTML)
 
 # **Printing documents** <a name="paragraph1"></a>
 ### _Printing documents via USB port_ <a name="subparagraph1"></a>
-1. Insert your USB flash drive into the USB port as shown in the picture. 
+1. Insert your USB flash drive into the USB port as shown in the picture.
+
+<img src="https://www.linkpicture.com/q/Insert-USB.jpeg" width="400" height="300" /> <img src="https://www.linkpicture.com/q/Select-Print.jpeg" width="400" height="300" />
 2. After inserting your USB flash drive choose “Print from USB”. This will show your files on the screen. 
 3. Choose the file you want to print. 
 4. After new options menu will open, there you can choose the number of copies needed, 
