@@ -11,20 +11,19 @@ Picture Size (HTML)
 
 # **Copying documents**
  <a name="paragraph1"></a>
-1. Place your document on the Scanning Section. 
+1. Place your document on the top. 
 <img src="https://www.linkpicture.com/q/1_133.jpeg" width="400" height="300" />
-2. Put the needed amount of A4 in the Paper Feed Section.
-<img src="https://www.linkpicture.com/q/2_90.jpeg" width="400" height="300" />
-3. Select “Copy” on the tab.
+2. Select “Copy”.
 <img src="https://www.linkpicture.com/q/3_62.jpeg" width="400" height="300" />
-4. Change copy settings if needed.
+3. On the tab opened after edit on changes you want to make on your copy.
+4. Choose how many copies of your document are needed and type on the screen. 
 <img src="https://www.linkpicture.com/q/4_61.jpeg" width="400" height="300" />
-6. After editing you can reset/save/customize: 
+5. After editing you can reset/save/customize: 
    Reset: to return default settings 
    Save: save settings you have set
    Customize: you can customize settings more detailed
 <img src="https://www.linkpicture.com/q/5_38.jpeg" width="400" height="400" />
-7. Start: finally printing
+6. Start: finally printing
 
 # **Printing documents** <a name="paragraph1"></a>
 ### _Printing documents via USB port_ <a name="subparagraph1"></a>
@@ -46,7 +45,8 @@ page’s size and orientation.
 <img src="https://www.linkpicture.com/q/6_20.jpeg" width="400" height="300" />
 2. In the next window press “Print From” buttom
 <br />
-3. Select the file that you want to print.
+3. Select the file that you want to printz
+<br />
 4. Modify standard settings if you need. You can choose the number of copies, 1-sided or 2-sided printing, and output color. 
 <img src="https://www.linkpicture.com/q/7_53.jpeg" width="400" height="300" />
 5. Press the “Print” button on the upper right corner.     
