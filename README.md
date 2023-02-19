@@ -11,19 +11,20 @@ Picture Size (HTML)
 
 # **Copying documents**
  <a name="paragraph1"></a>
-1. Place your document on the top. 
+1. Place your document on the Scanning Section. 
 <img src="https://www.linkpicture.com/q/1_133.jpeg" width="400" height="300" />
-2. Select “Copy”.
+2. Put the needed amount of A4 in the Paper Feed Section.
+<img src="https://www.linkpicture.com/q/2_90.jpeg" width="400" height="300" />
+3. Select “Copy” on the tab.
 <img src="https://www.linkpicture.com/q/3_62.jpeg" width="400" height="300" />
-3. On the tab opened after edit on changes you want to make on your copy.
-4. Choose how many copies of your document are needed and type on the screen. 
+4. Change copy settings if needed.
 <img src="https://www.linkpicture.com/q/4_61.jpeg" width="400" height="300" />
-5. After editing you can reset/save/customize: 
+6. After editing you can reset/save/customize: 
    Reset: to return default settings 
    Save: save settings you have set
    Customize: you can customize settings more detailed
 <img src="https://www.linkpicture.com/q/5_38.jpeg" width="400" height="400" />
-6. Start: finally printing
+7. Start: finally printing
 
 # **Printing documents** <a name="paragraph1"></a>
 ### _Printing documents via USB port_ <a name="subparagraph1"></a>
