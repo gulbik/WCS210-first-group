@@ -15,7 +15,7 @@ Picture Size (HTML)
 <img src="https://www.linkpicture.com/q/1_133.jpeg" width="400" height="300" />
 2. Select “Copy”.
 <img src="https://www.linkpicture.com/q/3_62.jpeg" width="400" height="300" />
-3. On the tab opened after edit on changes you want to make on your copy
+3. On the tab opened after edit on changes you want to make on your copy.
 4. Choose how many copies of your document are needed and type on the screen. 
 <img src="https://www.linkpicture.com/q/4_61.jpeg" width="400" height="300" />
 5. After editing you can reset/save/customize: 
