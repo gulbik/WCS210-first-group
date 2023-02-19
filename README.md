@@ -12,13 +12,17 @@ Picture Size (HTML)
 # **Copying documents**
  <a name="paragraph1"></a>
 1. Place your document on the top. 
+<img src="https://www.linkpicture.com/q/1_133.jpeg" width="400" height="300" />
 2. Select “Copy”.
+<img src="https://www.linkpicture.com/q/3_62.jpeg" width="400" height="300" />
 3. On the tab opened after edit on changes you want to make on your copy
 4. Choose how many copies of your document are needed and type on the screen. 
+<img src="https://www.linkpicture.com/q/4_61.jpeg" width="400" height="300" />
 5. After editing you can reset/save/customize: 
    Reset: to return default settings 
    Save: save settings you have set
    Customize: you can customize settings more detailed
+<img src="https://www.linkpicture.com/q/5_38.jpeg" width="400" height="400" />
 6. Start: finally printing
 
 # **Printing documents** <a name="paragraph1"></a>
@@ -27,7 +31,6 @@ Picture Size (HTML)
 
 <img src="https://www.linkpicture.com/q/Insert-USB.jpeg" width="400" height="300" /> 
 2. After inserting your USB flash drive choose “Print from USB”. This will show your files on the screen. 
-
 <img src="https://www.linkpicture.com/q/Select-Print.jpeg" width="400" height="300" />
 3. Choose the file you want to print. 
 <img src="https://www.linkpicture.com/q/Choose-your-file.jpeg" width="400" height="300" />
