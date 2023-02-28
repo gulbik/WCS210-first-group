@@ -3,6 +3,7 @@ Technical instructons for _**XEROX WorkCentre 7830**_
 
 ## Introduction <a name="introduction"></a>
 The following instructions are written to help you quickly print and copy files with the XEROX WorkCentre 7830 printer. These instructions focus particularly on printing and copying files through USB and Google Drive. XEROX WorkCentre 7830 is capable of printing only PDF files. Before starting work, make sure that your files are already converted to PDF. 
+Printers for students are located in block 6 in office 222
 
 
 
